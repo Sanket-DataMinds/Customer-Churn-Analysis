@@ -46,5 +46,5 @@ This project utilizes structured data sources, which may include:
 - More granular customer behavior analysis.
 
 ## Author
-[Sanket Ganje](https://github.com/Sanket-Ganje)
+[Sanket Ganje](https://github.com/Sanket-DataMinds)
 
