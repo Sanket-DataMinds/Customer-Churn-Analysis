@@ -1,5 +1,5 @@
 # Customer Retention Analysis - Power BI Project
-
+![Image](https://github.com/user-attachments/assets/7883d054-9dd1-4b80-b42d-54921771903b)
 ## Overview
 This Power BI project focuses on analyzing customer retention patterns. It provides insights into customer behavior, churn rates, and factors influencing retention using interactive dashboards.
 
